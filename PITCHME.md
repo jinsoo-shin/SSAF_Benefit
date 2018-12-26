@@ -12,9 +12,14 @@
 @snapend
 
 @snap[east span-70]
-<h2>Lorem ipsum @css[text-blue](dolor)</h2>
+<h5>- 별명 : 취한존(최현준의 모음을 돌려주면 된다)<br>
+ - 성격 : 차갑고 냉정하다.<br>
+ - 연말 계획 : 치킨먹기 </h5>
 @snapend
 
+@snap[north-east template-note text-black]
+최현준
+@snapend
 
 +++?image=template/img/bg/orange.jpg&position=left&size=30% 100%
 @title[Sidebar + Image Body]
