@@ -2,12 +2,12 @@
 
 # SSAF 이득
 
-<img src="assets/images/all.png" width="500" height="300">
+<img src="assets/images/all.png" width="300" height="500">
 ---
 
 <div class="left">
 
-<img src="assets/images/heunjun.png" width="500" height="300">
+<img src="assets/images/heunjun.png" width="300" height="500">
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <div class="left">
 
-<img src="assets/images/eunjin.png" width="500" height="300">
+<img src="assets/images/eunjin.png" width="300" height="500">
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div class="left">
 
-<img src="assets/images/jinsu.png" width="500" height="300">
+<img src="assets/images/jinsu.png" width="300" height="500">
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div class="left">
 
-<img src="assets/images/taeyong.png" width="500" height="300">
+<img src="assets/images/taeyong.png" width="300" height="500">
 
 </div>
 
