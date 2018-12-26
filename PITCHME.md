@@ -28,11 +28,8 @@
 @snap[west span-100 text-black]
 <img src="assets/images/eunjin.png" width="150" height="280"> <br>
 
- @size[0.5em](- 별명 : 지니)
- @size[0.5em](<br>- 성격 : 활발함<br>- 연말 계획 : 12월 31일에 하고 싶은 것<br>
-- 친한 동생 만나서 동명동 투어<br>
-- 고등학교부터 친구 2명과 함께 링크장 놀러가기<br>
-- 비포시르즈 영화 시청)
+ @size[0.5em](- 별명 : 지니<br>)
+ @size[0.5em](- 성격 : 활발함<br>- 연말 계획 : 12월 31일에 하고 싶은 것<br>- 친한 동생 만나서 동명동 투어<br>- 고등학교부터 친구 2명과 함께 링크장 놀러가기<br>- 비포시르즈 영화 시청)
 @snapend
 
 +++?image=assets/bg/orange.jpg&position=right&size=40% 100%
@@ -45,9 +42,7 @@
 <img src="assets/images/jinsu.png" width="150" height="280"> <br>
 
  @size[0.5em](- 별명 : 싱슈)
- @size[0.5em](<br>- 성격 : 신중<br>- 연말 계획 : <br>
-- 친구들과 송년회 보내기<br>
-- 가족들과 외식하기)
+ @size[0.5em](<br>- 성격 : 신중<br>- 연말 계획 : <br>- 친구들과 송년회 보내기<br>- 가족들과 외식하기)
 @snapend
 
 +++?image=assets/bg/orange.jpg&position=right&size=40% 100%
