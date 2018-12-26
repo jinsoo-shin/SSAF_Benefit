@@ -6,8 +6,8 @@
 @snapend
       
 +++?image=assets/bg/orange.jpg&position=right&size=40% 100%
-@snap[text-white]
-<div style="float:right;">@size[2em](최현준)</div>
+@snap[north-east text-white]
+@size[2em](최현준)
 @snapend
 
 
