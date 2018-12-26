@@ -5,7 +5,7 @@
 <img src="assets/images/all.png" width="300" height="450">
 @snapend
       
-+++?image=assets/bg/orange.jpg&position=right&size=30% 100%
++++?image=assets/bg/orange.jpg&position=right&size=40% 100%
 @snap[text-white]
 <div style="float:right;">@size[2em](최현준)</div>
 @snapend
