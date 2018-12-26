@@ -19,7 +19,7 @@
  @size[0.5em](<br>- 성격 : 차갑고 냉정하다.<br>- 연말 계획 : 치킨먹기)
 @snapend
 
-+++?image=assets/bg/orange.jpg&position=right&size=40% 100%
++++?image=assets/bg/purple.jpg.jpg&position=right&size=40% 100%
 @snap[north-east text-white]
 @size[2em](문은진)
 @snapend
