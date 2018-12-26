@@ -13,7 +13,7 @@
 
 
 @snap[west span-100 text-black]
-<img src="assets/images/heunjun.png" width="150" height="280">
+<img src="assets/images/heunjun.png" width="150" height="280"> <br>
 
  - 별명 : 취한존<br>(최현준의 모음을 돌려주면 된다)<br>
  - 성격 : 차갑고 냉정하다.<br>
