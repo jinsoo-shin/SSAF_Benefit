@@ -1,6 +1,4 @@
 ---?image=assets/bg/pencils.jpg
-      
-@title[Sidebar Templates]
 
 ## @color[black](SSAF 이득)
       
