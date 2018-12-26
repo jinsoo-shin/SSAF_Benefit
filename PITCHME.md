@@ -2,7 +2,7 @@
 
 # SSAF 이득
 
-<img src="assets/images/all.png" width="500" height="500">
+<img src="assets/images/all.png" width="500" height="600">
 ---
 
 <div class="left">
