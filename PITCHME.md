@@ -11,11 +11,11 @@
 @size[3em](최현준)
 @snapend
 
-@snap[north-east template-note text-black]
-dd
+@snap[north-east template-note text-white]
+최현준
 @snapend
 
-@snap[east span-100]
+@snap[west span-100]
 <h7>- 별명 : 취한존<br>(최현준의 모음을 돌려주면 된다)<br>
  - 성격 : 차갑고 냉정하다.<br>
  - 연말 계획 : 치킨먹기 </h7>
