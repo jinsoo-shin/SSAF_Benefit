@@ -1,4 +1,5 @@
----?image=template/img/pencils.jpg
+---?image=ssaf_benefit/assets/bg/pencils.jpg
+      
 @title[Sidebar Templates]
 
 ## @color[black](Sidebar<br>Slide Templates)
