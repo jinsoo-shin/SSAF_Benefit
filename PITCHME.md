@@ -1,4 +1,4 @@
----?image=ssaf_benefit/assets/bg/pencils.jpg
+---?image=assets/bg/pencils.jpg
       
 @title[Sidebar Templates]
 
@@ -6,7 +6,7 @@
 
 
       
-+++?image=ssaf_benefit/assets/bg/orange.jpg&position=left&size=30% 100%
++++?image=assets/bg/orange.jpg&position=left&size=30% 100%
 @title[Sidebar + Heading]
 
 @snap[west text-white]
