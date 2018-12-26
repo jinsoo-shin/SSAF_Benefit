@@ -6,7 +6,7 @@
 @snapend
       
 +++?image=assets/bg/orange.jpg&position=right&size=30% 100%
-@snap[north-east text-white]
+@snap[north-east text-align:right text-white]
 @size[2em](최현준)
 @snapend
 
