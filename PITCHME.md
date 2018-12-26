@@ -2,9 +2,7 @@
       
 @title[Sidebar Templates]
 
-## @color[black](Sidebar<br>Slide Templates)
-
-
+## @color[black](SSAF 이득)
       
 +++?image=assets/bg/orange.jpg&position=left&size=30% 100%
 @title[Sidebar + Heading]
@@ -15,10 +13,6 @@
 
 @snap[east span-70]
 <h2>Lorem ipsum @css[text-blue](dolor)</h2>
-@snapend
-
-@snap[north-east template-note text-gray]
-Sidebar with heading body template.
 @snapend
 
 
