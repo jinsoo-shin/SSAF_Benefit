@@ -11,15 +11,17 @@
 @size[3em](1.)
 @snapend
 
-@snap[east span-70]
-<h5>- 별명 : 취한존(최현준의 모음을 돌려주면 된다)<br>
- - 성격 : 차갑고 냉정하다.<br>
- - 연말 계획 : 치킨먹기 </h5>
+@snap[north-east template-note text-black]
+<h2>최현준</h2>
 @snapend
 
-@snap[north-east template-note text-black]
-최현준
+@snap[east span-100]
+<h7>- 별명 : 취한존<br>(최현준의 모음을 돌려주면 된다)<br>
+ - 성격 : 차갑고 냉정하다.<br>
+ - 연말 계획 : 치킨먹기 </h7>
 @snapend
+
+
 
 +++?image=template/img/bg/orange.jpg&position=left&size=30% 100%
 @title[Sidebar + Image Body]
