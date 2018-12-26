@@ -1,4 +1,4 @@
----?image=assets/bg/pencils.jpg
+---?image=assets/bg/ssafy_main.png
 
 ## @color[black](SSAF 이득)
 @snap
