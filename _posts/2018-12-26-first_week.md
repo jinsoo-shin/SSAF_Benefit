@@ -1,7 +1,7 @@
 ---
 title: first-week 
 date: 2018-12-26
-categories: week 1
+categories: 1week
 ---
 
 # Design Thinking 방법론
