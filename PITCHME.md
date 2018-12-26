@@ -4,15 +4,15 @@
 
 ## @color[black](SSAF 이득)
       
-+++?image=assets/bg/orange.jpg&position=left&size=30% 100%
++++?image=assets/bg/orange.jpg&position=right&size=30% 100%
 @title[Sidebar + Heading]
 
 @snap[west text-white]
-@size[3em](1.)
+@size[3em](최현준)
 @snapend
 
 @snap[north-east template-note text-black]
-<h2>최현준</h2>
+dd
 @snapend
 
 @snap[east span-100]
