@@ -2,7 +2,7 @@
 
 # SSAF 이득
 
-<img src="assets/images/all.png" width="300" height="500">
+<img src="assets/images/all.png" width="500" height="500">
 ---
 
 <div class="left">
@@ -27,7 +27,7 @@
 
 <div class="left">
 
-<img src="assets/images/eunjin.png" width="300" height="500">
+<img src="assets/images/eunjin.png" width="400" height="500">
 
 </div>
 
