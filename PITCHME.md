@@ -1,6 +1,9 @@
 ---?image=assets/bg/pencils.jpg
 
 ## @color[black](SSAF 이득)
+@snap
+<img src="assets/images/all.png" width="300" height="450">
+@snapend
       
 +++?image=assets/bg/orange.jpg&position=right&size=30% 100%
 @snap[north-east text-white]
