@@ -32,7 +32,7 @@
  @size[0.5em](- 성격 : 활발함<br>- 연말 계획 : <br>  친한 동생 만나서 동명동 투어<br>    고등학교부터 친구 2명과 함께 링크장 놀러가기<br> 비포시르즈 영화 시청)
 @snapend
 
-+++?image=assets/bg/orange.jpg&position=right&size=40% 100%
++++?image=assets/bg/blue.jpg&position=right&size=40% 100%
 @snap[north-east text-white]
 @size[2em](신진수)
 @snapend
@@ -45,7 +45,7 @@
  @size[0.5em](<br>- 성격 : 신중<br>- 연말 계획 : <br>   친구들과 송년회 보내기<br>     가족들과 외식하기)
 @snapend
 
-+++?image=assets/bg/orange.jpg&position=right&size=40% 100%
++++?image=assets/bg/green.jpg&position=right&size=40% 100%
 @snap[north-east text-white]
 @size[2em](권태용)
 @snapend
