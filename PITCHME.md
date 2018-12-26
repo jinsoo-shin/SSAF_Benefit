@@ -13,9 +13,8 @@
 
 
 @snap[west span-100 text-black]
-![최현준](image=assets/images/heunjun.png&size=30% 100%)
-@snapend
-@snap[west span-100 text-black]
+?image=assets/images/heunjun.png&size=30% 100%
+
  - 별명 : 취한존<br>(최현준의 모음을 돌려주면 된다)<br>
  - 성격 : 차갑고 냉정하다.<br>
  - 연말 계획 : 치킨먹기
